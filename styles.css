@@ -9,7 +9,9 @@
   display: inline-block;
 
 }
-
+.special{
+  padding-top: 25px;
+}
 body {
   background-color: #393E46;
 }
